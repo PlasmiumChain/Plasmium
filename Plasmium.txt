@@ -1,0 +1,16 @@
+Plasmium
+
+Premium Ethereum experience, by Plasmmer.
+
+The endgame for scaling, leading to the way of 100K TPS*
+* Plasmium, even with it A and B chains, can't achieve that alone; but its Layer3 approach may inspire and open the door to a plethora of new designs for scaling Ethereum beyond its Layer2 TPS limits by using Layer3's.
+
+Sitting in zkSync Era, Plasmium A.
+Sitting in Polygon zkEVM, Plasmium B.
+
+One day, these A & B chains should appear as one in a wallet, and validated as one using a single validator.
+
+- Take use of PLA+FLOF token
+
+INSP, ask if EVM-equivalency of ZK may cause bugs https://docs.gnosischain.com/about/networks/optimism
+understand if this can be used instead and how it would fit Plasmium: https://app.optimism.io/superchain
