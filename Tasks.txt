@@ -1,4 +1,11 @@
-- Take use of PLA+FLOF token
-
 INSP, ask if EVM-equivalency of ZK may cause bugs https://docs.gnosischain.com/about/networks/optimism
 understand if this can be used instead and how it would fit Plasmium: https://app.optimism.io/superchain
+
+https://cryptobriefing.com/what-would-ethereum-layer-3-look-like-vitalik-buterin-some-ideas/
+https://cryptoslate.com/vitalik-buterns-reveals-layer-3s-to-have-bigger-role-as-layer-2-scaling-ecosystem-matures/
+
+- Take use of PLA+FLOF token
+
+- Site
+
+https://br.godaddy.com/domainsearch/find?checkAvail=1&plid=1&domainToCheck=plasmium.io&itc=dom_whois_dbs
