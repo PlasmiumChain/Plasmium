@@ -1,0 +1,4 @@
+- Take use of PLA+FLOF token
+
+INSP, ask if EVM-equivalency of ZK may cause bugs https://docs.gnosischain.com/about/networks/optimism
+understand if this can be used instead and how it would fit Plasmium: https://app.optimism.io/superchain
