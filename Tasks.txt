@@ -9,3 +9,8 @@ https://cryptoslate.com/vitalik-buterns-reveals-layer-3s-to-have-bigger-role-as-
 - Site
 
 https://br.godaddy.com/domainsearch/find?checkAvail=1&plid=1&domainToCheck=plasmium.io&itc=dom_whois_dbs
+
+Features:
+- Bridge from ImmutableX https://www.immutable.com/
+- Other NFT bridges
+- Ronin bridge
